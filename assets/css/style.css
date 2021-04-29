@@ -215,10 +215,19 @@ header .intro-text {
 	float: right;
 }
 
+.img-aluizio {
+    width: 314px;
+}
+
 /* texto sobre*/
 #sobre p {
 	margin-bottom: 30px;
 	line-height: 21px;
+}
+
+/* stack*/
+dt {
+	margin-top: 10px;
 }
 
 
